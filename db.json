@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "Christian",
+      "lastName": "Javier",
+      "email": "ChrisJavierPs@hotmail.com",
+      "role": "Developer",
+      "id": 1607237819282
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Verde",
+      "email": "Verde@hotmail.com",
+      "role": "UI designer",
+      "id": 1607239670529
+    }
+  ]
+}
